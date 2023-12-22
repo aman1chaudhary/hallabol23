@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hallabol23/static/css/main.4f6343e6.css",
-    "main.js": "/hallabol23/static/js/main.f88cc613.js",
+    "main.js": "/hallabol23/static/js/main.e01442bd.js",
     "static/media/hallabol.mp4": "/hallabol23/static/media/hallabol.a550f5786adf3e746be5.mp4",
     "static/media/TugOfWar.jpg": "/hallabol23/static/media/TugOfWar.a49433c3f03c67838936.jpg",
     "static/media/UltimateFrisbee.jpg": "/hallabol23/static/media/UltimateFrisbee.fdcc878706e0904f8fb3.jpg",
@@ -42,10 +42,10 @@
     "static/media/BgImg-1.png": "/hallabol23/static/media/BgImg-1.a1aff6d5127e27e7878b.png",
     "index.html": "/hallabol23/index.html",
     "main.4f6343e6.css.map": "/hallabol23/static/css/main.4f6343e6.css.map",
-    "main.f88cc613.js.map": "/hallabol23/static/js/main.f88cc613.js.map"
+    "main.e01442bd.js.map": "/hallabol23/static/js/main.e01442bd.js.map"
   },
   "entrypoints": [
     "static/css/main.4f6343e6.css",
-    "static/js/main.f88cc613.js"
+    "static/js/main.e01442bd.js"
   ]
 }
